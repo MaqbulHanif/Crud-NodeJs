@@ -4,5 +4,5 @@ const db = new Sequelize('crud_db','root','',{
     host: 'localhost',
     dialect: 'mysql'
 });
-// test push
+
 export default db;
